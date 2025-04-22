@@ -1,1 +1,19 @@
 /* your code */
+.head{
+	background-color:navy;
+	color:white;
+	line-height:2;
+	text-align:center;
+
+}
+.white{
+	background-color:white;
+	line-height:2;
+	text-align:center;
+}
+
+.gray{
+	background-color:gray;
+	line-height:2;
+	text-align:center;
+}
